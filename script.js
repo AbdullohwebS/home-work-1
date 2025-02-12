@@ -118,7 +118,7 @@ style.textContent = `
   }
 
   .social-button:hover {
-    background: #444;
+    background: #C4F82A;
   }
 `;
 document.head.appendChild(style);
